@@ -1,7 +1,0 @@
-This is test file for download
-My Name is Manish
-I am learning GitHub
-i am commiting this code
-final touch
-Good Night 
-17th May 2022
